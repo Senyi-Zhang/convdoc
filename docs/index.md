@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Welcome to My Conversation Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I believe that practice and review lead to mastery.
+Here, I revisit every conversation I've had on HelloTalk, categorize them into different topics, and document the key takeaways.
+The notes are presented as translation exercises, which help reinforce what I've learned more effectively than passive reading.
+You can browse the notes below or using the menu at the top or in the top-right corner.
 
-## Commands
+## 📚 Topics
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Love & Relationship](love-relationship.md)

@@ -1,2 +1,5 @@
-site_name: My Docs
-  - Main : docs/index.md
+site_name: My Conversation Docs
+
+nav:
+  - Home : index.md
+  - Love & Relationship : love&relationships.md
