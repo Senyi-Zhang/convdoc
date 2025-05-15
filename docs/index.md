@@ -7,4 +7,4 @@ You can browse the notes below or using the menu at the top or in the top-right 
 
 ## 📚 Topics
 
-- [Love & Relationship](love-relationship.md)
+- [Love & Relationship](love&relationship.md)
